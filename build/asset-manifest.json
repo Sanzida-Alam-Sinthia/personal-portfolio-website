@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.482ba458.chunk.css",
+    "main.js": "/static/js/main.7f1c14d6.chunk.js",
+    "main.js.map": "/static/js/main.7f1c14d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05b9c084.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05b9c084.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.825168be.chunk.js": "/static/js/2.825168be.chunk.js",
+    "static/js/2.825168be.chunk.js.map": "/static/js/2.825168be.chunk.js.map",
+    "static/js/3.f46f8ac7.chunk.js": "/static/js/3.f46f8ac7.chunk.js",
+    "static/js/3.f46f8ac7.chunk.js.map": "/static/js/3.f46f8ac7.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.482ba458.chunk.css.map": "/static/css/main.482ba458.chunk.css.map",
+    "static/js/2.825168be.chunk.js.LICENSE.txt": "/static/js/2.825168be.chunk.js.LICENSE.txt",
+    "static/media/Chairish.e48290f6.JPG": "/static/media/Chairish.e48290f6.JPG",
+    "static/media/Memory.6835142f.JPG": "/static/media/Memory.6835142f.JPG",
+    "static/media/Resume - Sanzida Alam Sinthia.e6963b02.pdf": "/static/media/Resume - Sanzida Alam Sinthia.e6963b02.pdf",
+    "static/media/artisteeA.3e9d3b91.png": "/static/media/artisteeA.3e9d3b91.png",
+    "static/media/artisteeF.1f84ada0.png": "/static/media/artisteeF.1f84ada0.png",
+    "static/media/style.css": "/static/media/pre.4410c5ba.svg",
+    "static/media/jsomBlog.94e64b2d.png": "/static/media/jsomBlog.94e64b2d.png",
+    "static/media/lady-teacher.1376332a.svg": "/static/media/lady-teacher.1376332a.svg",
+    "static/media/webdev.370a0045.JPG": "/static/media/webdev.370a0045.JPG",
+    "static/media/women-typing-a-content-or-text-for-making-book.7e203ee5.svg": "/static/media/women-typing-a-content-or-text-for-making-book.7e203ee5.svg",
+    "static/media/women-web-developer-with-laptop.26d57475.svg": "/static/media/women-web-developer-with-laptop.26d57475.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b9c084.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.825168be.chunk.js",
+    "static/css/main.482ba458.chunk.css",
+    "static/js/main.7f1c14d6.chunk.js"
+  ]
+}
