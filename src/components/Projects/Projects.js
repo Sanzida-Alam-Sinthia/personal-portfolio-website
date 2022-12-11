@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Memory Creation Photography || Photographers Portfolio and Service Website"
               description="It is a photographers portfolio and service website.In this project, sser can log-in with Google and Firebase sign-in with Firebase Authentication and Photography Services are shown in different categories and detailed information provided in show details page. Logged in user can add a review and add new service. All information are stored in MongoDB and shown in website."
-              link=""
+              link="https://github.com/Sanzida-Alam-Sinthia/photography-service-client-repo"
               liveLink="https://photography-service-client.web.app/"
             />
           </Col>
@@ -37,9 +37,9 @@ function Projects() {
             <ProjectCard
               imgPath={easyCode}
               isBlog={false}
-              title="Chairish Furniture || Furniture Selling Website"
+              title="Chairish Furniture || Furniture ReSelling Website"
               description="Chairish Furniture is furniture reselling website which is build with react.js. Google and Firebase sign-in with Firebase Authentication, User order information saved in MongoDB. Different roles and routes are implemented for Admin, Seller, and User."
-              // link="https://github.com/MohitSojitra/easy-code"
+              link="https://github.com/Sanzida-Alam-Sinthia/chairish-furniture-client-repo"
               liveLink="https://resell-assignment-client.web.app/"
             />
           </Col>
@@ -50,7 +50,7 @@ function Projects() {
               isBlog={false}
               title="Learn WebDev.com || Online Learning Website"
               description="It is a basic e-learning site which build in React. It has  features like login, signup as a part of authentication. Apart from that It offeres different type of courses and user can see the details of the courses. Additionally, can also download the course details."
-              // link="https://github.com/MohitSojitra/e-commerce-store"
+              link="https://github.com/Sanzida-Alam-Sinthia/LearnWebDev-client-repo"
               liveLink="https://learnng-platform-assignment.web.app/"
             />
           </Col>
